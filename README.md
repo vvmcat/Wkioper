@@ -1,6 +1,6 @@
 # Wkioper
 
-<img src="https://github.com/vvmcat/Wkioper/blob/main/Icon.png?raw=true" style="zoom: 67%;" />
+<img src="https://github.com/vvmcat/Wkioper/blob/main/Icon.png?raw=true" style="zoom: 33%;" />
 
 一个简约的天气软件
 
